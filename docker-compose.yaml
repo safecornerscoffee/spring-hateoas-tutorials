@@ -1,0 +1,12 @@
+version: "3"
+services:
+  mariadb:
+    image: mariadb:10.5
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: hateoas
+      MARIADB_USER: hateoas
+      MARIADB_PASSWORD: hateoas
+      MARIADB_DATABASE: hateoas
+    ports:
+    - 3306:3306

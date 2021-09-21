@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: hateoas
+    password: hateoas
+    url: jdbc:mariadb://localhost:3306/hateoas
+  jpa:
+    hibernate:
+      ddl-auto: create
