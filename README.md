@@ -1,4 +1,5 @@
-# [spring hateoas tutorial](https://spring.io/guides/tutorials/rest/)
+# [Spring HATEOAS Tutorials](https://spring.io/guides/tutorials/rest/)
 
-- [ ] Test
-- [ ] RestDoc
+- [ ] Test Controllers
+- [ ] Document with RestDoc
+- [ ] See [Spring HATEOAS Examples](https://github.com/spring-projects/spring-hateoas-examples)
